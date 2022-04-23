@@ -1,0 +1,58 @@
+.darkmode_body {
+    background-color: rgb(20, 20, 20);
+    color: white;
+}
+
+.darkmode_topnav {
+    max-width: 300px;
+    padding: 20px;
+    margin: auto;
+    justify-content: space-evenly;
+}
+.darkmode_topnav a {
+    box-sizing: border-box;
+    text-decoration: none;
+    font-size: 17px;
+    color: rgb(177, 177, 177);
+    text-align: center;
+}
+.darkmode_topnav a:hover {
+    color:rgb(187, 187, 187);
+}
+.darkmode_topnav a.active {
+    color: rgb(238, 238, 238);
+}
+
+.darkmode_scrollable {
+    background-color: rgb(59, 59, 59);
+    border-bottom-left-radius: 15px;
+    border-bottom-right-radius: 15px;
+    white-space: nowrap;
+    overflow-x: scroll;
+    overflow-y: hidden;
+    padding: 5px;
+    padding-bottom: 10px;
+    border: solid rgb(100, 100, 100) 5px;
+    border-top: none;
+}
+
+.darkmode_projectsTopNav {
+    width: 100%;
+    background-color: rgb(100, 100, 100);
+    overflow: hidden;
+    font-family: Arial, Helvetica, sans-serif;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+}
+.darkmode_projectsTopNav a {
+    float: left;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+    color: rgb(255, 255, 255);
+    text-align: center;
+}
+.darkmode_projectsTopNav a:hover {
+    background-color: rgb(255, 255, 255);
+    color:rgb(0, 0, 0);
+}
