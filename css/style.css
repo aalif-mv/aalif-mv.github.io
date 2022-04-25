@@ -2,6 +2,13 @@ body {
     margin: 0;
     background-color: whitesmoke;
 }
+h1 {
+    margin: 10px;
+    margin-left: 20px;
+}
+h3 {
+    margin-left: 20px;
+}
 .top_nav {
     display: flex;
     overflow: hidden;
