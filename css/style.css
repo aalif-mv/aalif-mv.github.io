@@ -90,9 +90,7 @@ h3 {
 }
 .platforms {
     grid-area: platforms;
-    width: fit-content;
     height: fit-content;
-    margin: auto;
     padding: 4px;
 }
 .cards img {
