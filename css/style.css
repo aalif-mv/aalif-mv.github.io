@@ -93,6 +93,10 @@ h3 {
     height: fit-content;
     padding: 4px;
 }
+.platforms span {
+    font-size: 20px;
+    margin-left: 4px;
+}
 .cards img {
     grid-area: image;
     width: 100%;
