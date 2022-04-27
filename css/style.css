@@ -75,7 +75,7 @@ h3 {
     display: inline-grid;
     column-gap: 10px;
     row-gap: 2px;
-    grid-template-areas: 'image image' 'info info' 'demo-link source-link';
+    grid-template-areas: 'image image' 'info info' 'platforms platforms' 'demo-link source-link';
     margin: 10px;
     width: 200px;
     height: 225px;
@@ -87,6 +87,9 @@ h3 {
     justify-content: space-evenly;
     align-items: end;
     justify-items: stretch;
+}
+.platforms {
+    grid-area: platforms;
 }
 .scrollable div img {
     grid-area: image;
