@@ -62,7 +62,7 @@ h3 {
     float: left;
     padding: 14px 16px;
     text-decoration: none;
-    font-size: 17px;
+    font-size: 18px;
     color: rgb(0, 0, 0);
     text-align: center;
 }
@@ -126,6 +126,7 @@ h3 {
     white-space: nowrap;
     overflow-x: scroll;
     overflow-y: hidden;
+    height: 300px;
     padding: 5px;
     padding-bottom: 10px;
     border: solid rgb(200, 200, 200) 5px;
@@ -197,4 +198,27 @@ h3 {
 /* Handle on hover */
 ::-webkit-scrollbar-thumb:hover {
     background: #555;
+}
+
+.filter input:hover ~ .checkmark {
+    background-color: rgba(148, 148, 148, 0.315);
+}
+input[type="checkbox"] {
+    display: none;
+}
+.checkmark {
+    padding: 4px;
+    border-radius: 5px;
+}
+.filter input:checked ~ .checkmark {
+    background-color: rgba(68, 68, 68, 0.315);
+}
+.filter {
+    float: right;
+    margin: 14px 10px 14px 5px;
+    text-align: center;
+    cursor: pointer;
+}
+.filter span {
+    font-size: 18px;
 }
