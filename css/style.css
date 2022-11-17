@@ -230,11 +230,11 @@ footer a {
 ///////////////
 */
 
-#_javascript {
+#_games {
     background-image: linear-gradient(rgba(232, 255, 101, 0.726), rgb(136, 255, 0));
 }
-#_java {
-    background-image: linear-gradient(rgb(131, 205, 255), rgb(89, 255, 255));
+#_experiment {
+    background-color: #c989ff;
 }
 #_python {
     background-image: linear-gradient(rgb(0, 255, 136), rgb(98, 255, 66));
