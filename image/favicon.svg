@@ -2,9 +2,9 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="16.933332mm"
-   height="22.433554mm"
-   viewBox="0 0 16.933332 22.433554"
+   width="21.601101mm"
+   height="26.501352mm"
+   viewBox="0 0 21.6011 26.501353"
    version="1.1"
    id="svg5"
    inkscape:version="1.2 (dc2aedaf03, 2022-05-15)"
@@ -25,15 +25,15 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
      showgrid="false"
-     inkscape:zoom="2.6456983"
-     inkscape:cx="33.828498"
-     inkscape:cy="3.0237763"
+     inkscape:zoom="2.3892477"
+     inkscape:cx="33.064802"
+     inkscape:cy="37.25022"
      inkscape:window-width="1366"
      inkscape:window-height="705"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer1" />
+     inkscape:current-layer="g3796" />
   <defs
      id="defs2">
     <linearGradient
@@ -83,10 +83,17 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(-7.3343414,-12.690817)">
+     transform="translate(-5.0342256,-11.59076)">
     <g
        id="g3796"
        transform="matrix(2.4307194,0,0,2.4307194,-10.493385,-18.156999)">
+      <ellipse
+         style="opacity:1;fill:#3a1c7c;fill-opacity:0.834042;stroke-width:10.885;stroke-linecap:round;stroke-linejoin:round"
+         id="path6770"
+         cx="10.831428"
+         cy="17.689592"
+         rx="4.4433556"
+         ry="5.4513392" />
       <g
          aria-label="A"
          id="text186"
