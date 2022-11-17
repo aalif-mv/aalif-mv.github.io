@@ -2,13 +2,13 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="21.601101mm"
-   height="26.501352mm"
-   viewBox="0 0 21.6011 26.501353"
+   width="16.933332mm"
+   height="22.433554mm"
+   viewBox="0 0 16.933332 22.433554"
    version="1.1"
    id="svg5"
-   inkscape:version="1.2 (dc2aedaf03, 2022-05-15)"
    sodipodi:docname="favicon.svg"
+   inkscape:version="1.2 (dc2aedaf03, 2022-05-15)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:xlink="http://www.w3.org/1999/xlink"
@@ -83,30 +83,23 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(-5.0342256,-11.59076)">
+     transform="translate(-7.3343414,-12.690817)">
     <g
        id="g3796"
        transform="matrix(2.4307194,0,0,2.4307194,-10.493385,-18.156999)">
-      <ellipse
-         style="opacity:1;fill:#3a1c7c;fill-opacity:0.834042;stroke-width:10.885;stroke-linecap:round;stroke-linejoin:round"
-         id="path6770"
-         cx="10.831428"
-         cy="17.689592"
-         rx="4.4433556"
-         ry="5.4513392" />
       <g
          aria-label="A"
          id="text186"
-         style="font-size:10.5833px;line-height:1.25;stroke-width:0.264583">
+         style="font-size:10.5833px;line-height:1.25;stroke-width:0.04114008;stroke:#000000;stroke-opacity:1;stroke-dasharray:none">
         <path
            d="m 10.151243,16.940394 c 3.059147,-1.040525 1.591707,-2.227699 0.90015,-2.63549 -1.029541,-0.706409 -0.6725,1.467463 -0.90015,2.63549 z M 7.3343416,21.92 c 1.6423151,-2.045613 0.5594911,-8.041428 2.6768304,-9.211997 0,0 1.36453,-0.153942 2.086365,0.459643 1.063155,0.903718 1.288846,2.637316 1.288846,2.637316 0.02997,2.072936 -2.265974,1.432162 -3.129387,3.257255 L 9.7372881,21.92 Z"
-           style="font-family:'Swis721 Blk BT';-inkscape-font-specification:'Swis721 Blk BT';fill:url(#linearGradient1363);fill-opacity:1"
+           style="font-family:'Swis721 Blk BT';-inkscape-font-specification:'Swis721 Blk BT';fill:url(#linearGradient1363);fill-opacity:1;stroke:#000000;stroke-opacity:1;stroke-width:0.04114008;stroke-dasharray:none"
            id="path396"
            sodipodi:nodetypes="cccccscccc" />
       </g>
       <path
          id="rect547"
-         style="fill:url(#linearGradient1371);fill-opacity:1;stroke-width:26.4583;stroke-linecap:round;stroke-linejoin:round"
+         style="fill:url(#linearGradient1371);fill-opacity:1;stroke-width:0.04114008;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke:#000000;stroke-opacity:1"
          d="m 11.939014,17.743434 c 0.704296,-0.357689 0.632383,-0.05281 1.011646,-0.542556 0.88693,-1.145299 0.207802,-0.312474 0.439661,0.795859 0.261801,1.251458 0.273589,2.727927 0.910408,3.829378 l -2.475127,0.075 c 0.760951,-1.729569 0.364407,-2.470289 0.113412,-4.157681 z"
          sodipodi:nodetypes="cssccc" />
     </g>
